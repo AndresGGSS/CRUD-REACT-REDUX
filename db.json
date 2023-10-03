@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "2000",
+      "id": 4
+    },
+    {
+      "nombre": "Piña",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "Perro",
+      "precio": "1000",
+      "id": 7
+    },
+    {
+      "nombre": "Hola",
+      "precio": "2000",
+      "id": 8
+    }
+  ]
+}
